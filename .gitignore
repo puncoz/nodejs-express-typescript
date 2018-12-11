@@ -54,8 +54,6 @@ typings/
 *.tgz
 
 # Yarn Integrity file
-.yarn-integrity
-
 # dotenv environment variables file
 .env
 
@@ -74,5 +72,6 @@ typings/
 # Serverless directories
 .serverless
 
-# Jetbrain
+# Custom
 .idea
+build
